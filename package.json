@@ -1,0 +1,11 @@
+{
+  "name": "serverless-log-group-tagging",
+  "version": "1.0.0",
+  "description": "Add tags to log groups controlled by serverless",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "author": "ROSeaboyer",
+  "license": "MIT"
+}

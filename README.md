@@ -1,0 +1,1 @@
+# serverless-log-group-tagging
