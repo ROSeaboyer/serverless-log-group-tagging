@@ -7,5 +7,9 @@
     "lib": "lib"
   },
   "author": "ROSeaboyer",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ROSeaboyer/serverless-log-group-tagging.git"
+  }
 }
